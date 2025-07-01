@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>SONAR Rock vs Mine Prediction</title>
+  
 </head>
 <body>
 
